@@ -149,6 +149,17 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>
+        
+         </build>
+         
+        <developers>
+    		<developer>
+    			<name>Aline Freitas</name>
+    			<email>afoaline@hotmail.com</email>
+    		</developer>
+    	</developers>
+    	
+   	
+   
 
 </project>
